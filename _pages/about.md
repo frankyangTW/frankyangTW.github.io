@@ -43,7 +43,7 @@ I am a research assitant at the [Computer Vision Lab of Academia Sinica, Taiwan]
       * Supervised by Prof. Dit-Yan Yeung
       * Designed a Siamese-GRU based network for duplicate question pair identification
       * Implmented a bi-directional GRU with attention mechanism
-      * Achieved an 5\% improvement on the baseline model
+      * Achieved an 5% improvement on the baseline model
       
 # Publications
 ### HAA500: Human-Centric Atomic Action Dataset with Curated Videos
