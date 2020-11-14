@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a research assitant at the Computer Vision Lab of Academia Sinica, Taiwan, working on single image view 3D mesh reconstruction. During my undergraduate, I worked with Prof. Chi-Keung TANG and Prof. Yu-Wing TAI at the Hong Kong University of Science and Technology (HKUST). I have recently graduated from HKUST with a First Class Honor in Computer Science.
+I am a research assitant at the [Computer Vision Lab of Academia Sinica, Taiwan](https://www.iis.sinica.edu.tw/~liutyng/), working on single image view 3D mesh reconstruction with [Prof. Liu Tyng-Luh](https://www.iis.sinica.edu.tw/pages/liutyng/). During my undergraduate, I worked with [Prof. Chi-Keung TANG](http://www.cs.ust.hk/~cktang) and [Prof. Yu-Wing TAI](https://www.cse.ust.hk/admin/people/faculty/profile/yuwing) at the [Hong Kong University of Science and Technology (HKUST)](https://www.cse.ust.hk). I have recently graduated from HKUST with a First Class Honor in Computer Science.
 
 
 # Education
