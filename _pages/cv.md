@@ -11,22 +11,34 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Eng. in Computer Science, Hong Kong University of Science and Technology, 2020
 
-Work experience
+Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Research Assistant @ Computer Vision Lab, Academia Sinica
+  * Sep 2020 - Present
+  * Researched on single image view 3D mesh reconstruction
+  * Supervisor: Professor Liu Tyng-Luh
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* Undergraduate Researcher @ HKUST
+  * Human Atomic Action Recognition (Submitted to CVPR)
+    * Supervised by Prof. Chi-Keung Tang and Prof Yu-Wing Tai
+    * Proposed a novel fine-grained human-centric atomic action dataset for action recognition
+    * Implemented an action detection model that aggregates human-pose estimation and optical flow
+    * Demonstrated the effectiveness of fine-grained atomic action labels and noise-free action clips
+   
+   * Deep HDR Image Processing with HDR
+     * Supervised by Prof. Chen Qifeng
+     * Established an image processing pipeline with tone-mapping algorithms for High-Dynamic-Range (HDR) sensors
+     * Proposed a deep U-Net and designed synthetic data generation methods for demosaicing artifact removal
+     * Applied unsupervised style-transfer to generate DSLR quality images
+
+   * Duplicate Question Pair Identification
+      * Supervised by Prof. Dit-Yan Yeung
+      * Designed a Siamese-GRU based network for duplicate question pair identification
+      * Implmented a bi-directional GRU with attention mechanism
+      * Achieved an 5\% improvement on the baseline model with various regularization techniques
+
 Skills
 ======
 * Skill 1
@@ -41,19 +53,4 @@ Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
