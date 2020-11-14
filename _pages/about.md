@@ -27,6 +27,8 @@ I am a research assitant at the [Computer Vision Lab of Academia Sinica, Taiwan]
   * Researched on single image view 3D mesh reconstruction
 
 * Undergraduate Researcher @ HKUST
+
+  ![HAA](https://github.com/frankyanghkust/frankyanghkust.github.io/blob/master/images/paragraph-indent.png)
   * Human Atomic Action Recognition (Submitted to CVPR)
     * Supervised by [Prof. Chi-Keung TANG](http://www.cs.ust.hk/~cktang) and [Prof. Yu-Wing TAI](https://www.cse.ust.hk/admin/people/faculty/profile/yuwing)
     * Proposed a novel fine-grained human-centric atomic action dataset for action recognition
@@ -34,12 +36,16 @@ I am a research assitant at the [Computer Vision Lab of Academia Sinica, Taiwan]
     * Demonstrated the effectiveness of fine-grained atomic action labels and noise-free action clips
    
    * Deep HDR Image Processing with HDR
+   
+     ![HAA](https://github.com/frankyanghkust/frankyanghkust.github.io/blob/master/images/paragraph-indent.png)
      * Supervised by [Prof. Chen Qifeng](https://cqf.io/)
      * Established an image processing pipeline with tone-mapping algorithms for High-Dynamic-Range (HDR) sensors
      * Proposed a deep U-Net and designed synthetic data generation methods for demosaicing artifact removal
      * Applied unsupervised style-transfer to generate DSLR quality images
 
    * Duplicate Question Pair Identification
+   
+     ![HAA](https://github.com/frankyanghkust/frankyanghkust.github.io/blob/master/images/paragraph-indent.png)
       * Supervised by [Prof. Dit-Yan Yeung](https://www.cse.ust.hk/admin/people/faculty/profile/dyyeung)
       * Designed a Siamese-GRU based network for duplicate question pair identification
       * Implmented a bi-directional GRU with attention mechanism
