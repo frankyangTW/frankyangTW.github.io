@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Hsuan-Ru Yang"
 title_separator          : "-"
 name                     : &name "Hsuan-Ru Yang"
-description              : &description "Research Assistant at Computer Vision Lab, Academia Sinica"
+description              : &description "Research Assistant @ Computer Vision Lab, Academia Sinica"
 url                      : https://frankyanghkust.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "frankyanghkust.github.io"
@@ -86,7 +86,7 @@ author:
   location         : "Taipei, Taiwan"
   employer         :
   pubmed           :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    :
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
