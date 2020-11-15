@@ -47,6 +47,4 @@ I am a research assitant at the [Computer Vision Lab of Academia Sinica, Taiwan]
       
 # Publications
 * ### HAA500: Human-Centric Atomic Action Dataset with Curated Videos
-  We contribute HAA500, a manually annotated human-centric atomic action dataset for action recognition on 500 classes with over 591k labeled frames. HAA500 contains fine-grained atomic actions where only consistent actions fall under the same label. HAA500 has been carefully curated to capture the movement of human figures with less spatio-temporal label noises to greatly enhance the training of deep neural networks. Our extensive experiments validate the benefits of human-centric and atomic characteristics of HAA, which enables the trained model to improve prediction by attending to atomic human poses.
-
   Jihoon Chung, Cheng-hsin Wuu, Hsuan-ru Yang, Yu-Wing Tai, Chi-Keung Tang [[arxiv]](https://arxiv.org/abs/2009.05224)
