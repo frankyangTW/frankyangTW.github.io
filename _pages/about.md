@@ -27,6 +27,7 @@ I am a research assitant at the [Computer Vision Lab of Academia Sinica, Taiwan]
   * Researched on single image view 3D mesh reconstruction
 
 * Undergraduate Researcher @ HKUST
+![Editing a markdown file for a talk](/images/editing-talk.png)
   * Human Atomic Action Recognition (Submitted to CVPR)
     * Supervised by [Prof. Chi-Keung TANG](http://www.cs.ust.hk/~cktang) and [Prof. Yu-Wing TAI](https://www.cse.ust.hk/admin/people/faculty/profile/yuwing)
     * Proposed a novel fine-grained human-centric atomic action dataset for action recognition
