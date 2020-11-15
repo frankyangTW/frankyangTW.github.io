@@ -23,27 +23,20 @@ I am a research assitant at the [Computer Vision Lab of Academia Sinica, Taiwan]
 # Experience
 * Research Assistant @ Computer Vision Lab, Academia Sinica <img src="https://www.sinica.edu.tw/images/mobile-logo@2x.png" width="100"> 
   * Sep 2020 - Present
-  * Supervised by [Prof. Liu Tyng-Luh](https://www.iis.sinica.edu.tw/pages/liutyng/)
-  * Researched on single image view 3D mesh reconstruction
+  * Researched on single image view 3D mesh reconstruction, *Supervised by [Prof. Liu Tyng-Luh](https://www.iis.sinica.edu.tw/pages/liutyng/)*
 
 * Undergraduate Researcher @ HKUST <img src="https://milliontech.com/wp-content/uploads/2017/01/HKUST-logo.png" width="100"> 
-  * Human Atomic Action Recognition (Submitted to CVPR)
-    * Supervised by [Prof. Chi-Keung TANG](http://www.cs.ust.hk/~cktang) and [Prof. Yu-Wing TAI](https://www.cse.ust.hk/admin/people/faculty/profile/yuwing)
+  * Human Atomic Action Recognition (Submitted to CVPR), *Supervised by [Prof. Chi-Keung TANG](http://www.cs.ust.hk/~cktang) and [Prof. Yu-Wing TAI](https://www.cse.ust.hk/admin/people/faculty/profile/yuwing)*
     * Proposed a novel fine-grained human-centric atomic action dataset for action recognition
     * Implemented an action detection model that aggregates human-pose estimation and optical flow
-    * Demonstrated the effectiveness of fine-grained atomic action labels and noise-free action clips
    
-   * Deep HDR Image Processing with HDR
-        * Supervised by [Prof. Chen Qifeng](https://cqf.io/)
+   * Deep HDR Image Processing with HDR, *Supervised by [Prof. Chen Qifeng](https://cqf.io/)*
      * Established an image processing pipeline with tone-mapping algorithms for High-Dynamic-Range (HDR) sensors
      * Proposed a deep U-Net and designed synthetic data generation methods for demosaicing artifact removal
-     * Applied unsupervised style-transfer to generate DSLR quality images
 
-   * Duplicate Question Pair Identification
-      * Supervised by [Prof. Dit-Yan Yeung](https://www.cse.ust.hk/admin/people/faculty/profile/dyyeung)
+   * Duplicate Question Pair Identification, *Supervised by [Prof. Dit-Yan Yeung](https://www.cse.ust.hk/admin/people/faculty/profile/dyyeung)*
       * Designed a Siamese-GRU based network for duplicate question pair identification
       * Implmented a bi-directional GRU with attention mechanism
-      * Achieved an 5% improvement on the baseline model
       
 # Publications
 * ### HAA500: Human-Centric Atomic Action Dataset with Curated Videos
