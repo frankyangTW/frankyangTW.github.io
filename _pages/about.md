@@ -21,13 +21,16 @@ I am a research assitant at the [Computer Vision Lab of Academia Sinica, Taiwan]
 
 
 # Experience
-* Research Assistant @ Computer Vision Lab, Academia Sinica
+* Research Assistant @ Computer Vision Lab, Academia Sinica 
+<img src="https://www.sinica.edu.tw/images/mobile-logo@2x.png" width="100"> 
+
   * Sep 2020 - Present
   * Supervised by [Prof. Liu Tyng-Luh](https://www.iis.sinica.edu.tw/pages/liutyng/)
   * Researched on single image view 3D mesh reconstruction
 
-* Undergraduate Researcher @ HKUST
-![Editing a markdown file for a talk](/images/editing-talk.png)
+* Undergraduate Researcher @ HKUST 
+<img src="https://milliontech.com/wp-content/uploads/2017/01/HKUST-logo.png" width="100"> 
+
   * Human Atomic Action Recognition (Submitted to CVPR)
     * Supervised by [Prof. Chi-Keung TANG](http://www.cs.ust.hk/~cktang) and [Prof. Yu-Wing TAI](https://www.cse.ust.hk/admin/people/faculty/profile/yuwing)
     * Proposed a novel fine-grained human-centric atomic action dataset for action recognition
@@ -47,7 +50,7 @@ I am a research assitant at the [Computer Vision Lab of Academia Sinica, Taiwan]
       * Achieved an 5% improvement on the baseline model
       
 # Publications
-### HAA500: Human-Centric Atomic Action Dataset with Curated Videos
-We contribute HAA500, a manually annotated human-centric atomic action dataset for action recognition on 500 classes with over 591k labeled frames. HAA500 contains fine-grained atomic actions where only consistent actions fall under the same label. HAA500 has been carefully curated to capture the movement of human figures with less spatio-temporal label noises to greatly enhance the training of deep neural networks. Our extensive experiments validate the benefits of human-centric and atomic characteristics of HAA, which enables the trained model to improve prediction by attending to atomic human poses.
+* ### HAA500: Human-Centric Atomic Action Dataset with Curated Videos
+  We contribute HAA500, a manually annotated human-centric atomic action dataset for action recognition on 500 classes with over 591k labeled frames. HAA500 contains fine-grained atomic actions where only consistent actions fall under the same label. HAA500 has been carefully curated to capture the movement of human figures with less spatio-temporal label noises to greatly enhance the training of deep neural networks. Our extensive experiments validate the benefits of human-centric and atomic characteristics of HAA, which enables the trained model to improve prediction by attending to atomic human poses.
 
-Jihoon Chung, Cheng-hsin Wuu, Hsuan-ru Yang, Yu-Wing Tai, Chi-Keung Tang [[arxiv]](https://arxiv.org/abs/2009.05224)
+  Jihoon Chung, Cheng-hsin Wuu, Hsuan-ru Yang, Yu-Wing Tai, Chi-Keung Tang [[arxiv]](https://arxiv.org/abs/2009.05224)
