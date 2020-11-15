@@ -40,7 +40,7 @@ I am a research assitant at the [Computer Vision Lab of Academia Sinica, Taiwan]
      * Applied unsupervised style-transfer to generate DSLR quality images
 
    * Duplicate Question Pair Identification
-         * Supervised by [Prof. Dit-Yan Yeung](https://www.cse.ust.hk/admin/people/faculty/profile/dyyeung)
+      * Supervised by [Prof. Dit-Yan Yeung](https://www.cse.ust.hk/admin/people/faculty/profile/dyyeung)
       * Designed a Siamese-GRU based network for duplicate question pair identification
       * Implmented a bi-directional GRU with attention mechanism
       * Achieved an 5% improvement on the baseline model
