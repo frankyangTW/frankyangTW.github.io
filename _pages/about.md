@@ -21,16 +21,12 @@ I am a research assitant at the [Computer Vision Lab of Academia Sinica, Taiwan]
 
 
 # Experience
-* Research Assistant @ Computer Vision Lab, Academia Sinica 
-<img src="https://www.sinica.edu.tw/images/mobile-logo@2x.png" width="100"> 
-
+* Research Assistant @ Computer Vision Lab, Academia Sinica <img src="https://www.sinica.edu.tw/images/mobile-logo@2x.png" width="100"> 
   * Sep 2020 - Present
   * Supervised by [Prof. Liu Tyng-Luh](https://www.iis.sinica.edu.tw/pages/liutyng/)
   * Researched on single image view 3D mesh reconstruction
 
-* Undergraduate Researcher @ HKUST 
-<img src="https://milliontech.com/wp-content/uploads/2017/01/HKUST-logo.png" width="100"> 
-
+* Undergraduate Researcher @ HKUST <img src="https://milliontech.com/wp-content/uploads/2017/01/HKUST-logo.png" width="100"> 
   * Human Atomic Action Recognition (Submitted to CVPR)
     * Supervised by [Prof. Chi-Keung TANG](http://www.cs.ust.hk/~cktang) and [Prof. Yu-Wing TAI](https://www.cse.ust.hk/admin/people/faculty/profile/yuwing)
     * Proposed a novel fine-grained human-centric atomic action dataset for action recognition
